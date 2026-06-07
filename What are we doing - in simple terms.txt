@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Customer segmentation with Machine Learning - (github reference: https://github.com/SagarPatel98/Customer-Segmentation-using-Machine-Learning )
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Github Description:
+This is an Unsupervised ML project
+The retailer has hired us to help them create customer clusters, a.k.a "customer segments" through a data-driven approach.
+They've provided us a dataset of past purchase data at the transaction level. Our task is to build a clustering model using that dataset. Our clustering model should factor in both aggregate sales patterns and specific items purchased.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What does that even mean?:
+
+Imagine you go to a store with 1000s of customers - everyone wants something different - there are different clsuters formed for each different thing customers want so that personalised marketing can be sent to them about said items
+    eg: nappy buying customer, gets emails of offers for nappies, while wine buying customer gets info on new wines in.
+[1] 'Customer clusters/ segments' - buckets of shoppers with the same interests
+[2] 'Aggregate sales patterns' - what are the overall habits of shoppers
+
+What is Unsupervised Learning?
+
+- type of Machine Learning
+- the computer is given raw data with no labels and let it figure out the patterns itself
+
+What K-Means is?
+- type of clustering algorithm
+- natural grouping of scattered dots
+- k = number of clusters
+
+Real world Impact:
+1. Send targeted promotions to each grouping
+2. Stock products based on what each segment buys
+3. Personalise email/app content per clustering
+4. Offer loyalty rewards tailored to behaviour
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
